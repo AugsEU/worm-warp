@@ -1,0 +1,7 @@
+/worm-warp/bin/
+/worm-warp/obj/
+/worm-warp/Content/obj/
+/worm-warp/Content/bin/
+/worm-warp/Properties/
+/.vs/
+/worm-warp/worm-warp.csproj.user
