@@ -20,17 +20,17 @@
 /processorParam:TextureFormat=Compressed
 /build:Fonts/PixelFont.spritefont
 
-#begin Music/GameJam21.wav
-/importer:WavImporter
-/processor:SoundEffectProcessor
+#begin Music/GameJam21.ogg
+/importer:OggImporter
+/processor:SongProcessor
 /processorParam:Quality=Best
-/build:Music/GameJam21.wav
+/build:Music/GameJam21.ogg
 
-#begin Music/GJ Main.wav
-/importer:WavImporter
-/processor:SoundEffectProcessor
+#begin Music/GJ Main.ogg
+/importer:OggImporter
+/processor:SongProcessor
 /processorParam:Quality=Best
-/build:Music/GJ Main.wav
+/build:Music/GJ Main.ogg
 
 #begin SFX/GameOverSFX.wav
 /importer:WavImporter
